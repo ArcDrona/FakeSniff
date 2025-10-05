@@ -198,7 +198,7 @@ We welcome contributions from the community. Feel free to fork the repository an
 - Ashutosh Kumar Singh<br>
 - Sonu Patel<br>
 - Akshay Jain<br>
-- Gourav Aggraval<br>
+- Siddharth Kumar<br>
 
 ## License
 
