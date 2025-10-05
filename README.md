@@ -58,7 +58,12 @@ FakeSniff is a Streamlit-based web application designed for detecting DeepFake c
 
    You can also add your own custom models by following the instructions in `Add_Custom_Model_to_DeepSafe.md`.
 
-5. **Start the application**:
+    <br/>
+   <h1><b>You can download models from here</b></h1>
+  
+   https://drive.google.com/drive/folders/1bdzx0TJELfHQ4dDtzeTFtTFMpO4U7I-O
+
+6. **Start the application**:
 
    ```bash
    streamlit run main.py
